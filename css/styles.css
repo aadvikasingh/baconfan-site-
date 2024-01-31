@@ -1,0 +1,24 @@
+h1{
+    font-size: 50px;
+    color: red;
+}
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+.bacon:hover{
+    background-color: gold;
+}
+.broccoli:hover{
+    background-color: gold;
+}
+.circular{
+    border-radius: 50%;
+}
+                      /*id selectors */
+#heading{
+    color: blue;
+}
+                                                                                                                                        
